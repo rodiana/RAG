@@ -16,6 +16,7 @@ This project was designed as a portfolio showcase to demonstrate practical usage
 | Concept | Description |
 |--------|-------------|
 | RAG (Retrieval-Augmented Generation) | Combines external knowledge (YouTube transcript) with LLM generation |
+| Text Splitting | Breaks the transcript into overlapping chunks using LangChain to improve embedding and retrieval accuracy. |
 | Embedding | Converts text into vectors to enable semantic search |
 | Vector Store | Stores and retrieves chunks relevant to your query |
 | Local LLM | Uses `mistral` model via `ollama`, no internet or API key needed |
