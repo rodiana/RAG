@@ -62,7 +62,7 @@ git clone https://github.com/your-username/youtube-rag-assistant.git
 cd youtube-rag-assistant
 
 🐍 2. Create and activate a virtual environment
-conda create -n rag python=3.10 -y
+conda create -n rag python=3.12 -y
 conda activate rag
 
 📦 3. Install dependencies
